@@ -57,10 +57,10 @@ export default function Frame1(props) {
         ></Image>
         <Text
           fontFamily="Inter"
-          fontSize="20px"
+          fontSize="18px"
           fontWeight="700"
           color="rgba(0,0,0,1)"
-          lineHeight="24.204544067382812px"
+          lineHeight="21.784090042114258px"
           textAlign="left"
           display="block"
           direction="column"
@@ -148,8 +148,8 @@ export default function Frame1(props) {
           right="47.8%"
           padding="0px 0px 0px 0px"
           whiteSpace="pre-wrap"
-          children="BerthDay"
-          {...getOverrideProps(overrides, "BerthDay")}
+          children="birthday"
+          {...getOverrideProps(overrides, "birthday")}
         ></Text>
       </View>
       <Text

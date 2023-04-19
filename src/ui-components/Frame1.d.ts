@@ -16,7 +16,7 @@ export declare type Frame1OverridesProps = {
     "\u540D\u524D"?: PrimitiveOverrideProps<TextProps>;
     "\u61F8\u8CDE\u91D1"?: PrimitiveOverrideProps<TextProps>;
     Bounty?: PrimitiveOverrideProps<TextProps>;
-    BerthDay?: PrimitiveOverrideProps<TextProps>;
+    birthday?: PrimitiveOverrideProps<TextProps>;
     "\u8A95\u751F\u65E5"?: PrimitiveOverrideProps<TextProps>;
 } & EscapeHatchProps;
 export declare type Frame1Props = React.PropsWithChildren<Partial<ViewProps> & {
