@@ -1,18 +1,13 @@
-import './App.css';
+import "./App.css";
 import {
-  Frame1Collection 
- } from './ui-components';
-
+    Mailaddress 
+   } from './ui-components';
 function App() {
-return (
-
-
-<div className="App">
-<Frame1Collection />
-</div>
-
-
-);
+  return (
+    <div className="App">
+      <Mailaddress />
+    </div>
+  );
 }
 
 export default App;
